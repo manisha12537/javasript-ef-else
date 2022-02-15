@@ -1,0 +1,43 @@
+const readlinesync=require("readline-sync");
+var num=readlinesync.questionInt("enter the age");
+var multiply=0
+if(num*1){
+    multiply=num
+    console.log(multiply);
+}
+if(num*2){
+    multiply=num*2
+    console.log(multiply);
+}
+if(num*3){
+    multiply=num*3
+    console.log(multiply);
+}
+if(num*4){
+    multiply=num*4
+    console.log(multiply)
+}
+if(num*5){
+    multiply=num*5
+    console.log(multiply)
+}
+if(num*6){
+    multiply=num*6
+    console.log(multiply)
+}
+if(num*7){
+    multiply=num*7
+    console.log(multiply)
+}
+if(num*8){
+    multiply=num*8
+    console.log(multiply)
+}
+if(num*9){
+    multiply=num*9
+    console.log(multiply)
+}
+if(num*10){
+    multiply=num*10
+    console.log(multiply)
+}
